@@ -1,3 +1,2 @@
 # Bitarqs
-Html, Css, Javascript, Php, Mysql.
-http://bitarqs.com.mx
+Full Html, Css, Javascript, Php, Mysql
